@@ -67,13 +67,6 @@ def addUser():
 parser()
 
 
-# parser = argparse.ArgumentParser(prog='pypass', description='A login shell (or an auth shell)', epilog="Lock em' up...." )
-# parser.add_argument('-s', '--start', metavar='Start', type=str, help='Start the login shell.', action=login())
-# parser.add_argument('-r', '--remove', metavar='Remove', type=str, help='Remove a user.')
-# parser.add_argument('-a', '--add', metavar='Add', type=str, help='Add a user.', action=addUser())
-# args = parser.parse_args()
-
-
 
     
 
