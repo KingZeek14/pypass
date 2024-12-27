@@ -1,0 +1,12 @@
+pypass [OPTIONS...]
+
+Options:
+
+-s, --start: Start the login shell.
+
+-a, --add: Create a new user.
+
+-r, --remove: Remove a user.
+
+-h, --help: Display this help message.
+
